@@ -32,9 +32,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-karanjit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-karanjit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
